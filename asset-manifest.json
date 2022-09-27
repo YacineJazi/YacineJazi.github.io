@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b1acaa8.css",
+    "main.js": "/static/js/main.7d47e498.js",
+    "static/js/787.9db68e7a.chunk.js": "/static/js/787.9db68e7a.chunk.js",
+    "static/media/tap2.jpg": "/static/media/tap2.a6e43aaf0920c90e0856.jpg",
+    "static/media/profile.jpg": "/static/media/profile.bb78975e5fdbfed0e6d1.jpg",
+    "static/media/barrel_circle.png": "/static/media/barrel_circle.d8d2c0ef879598cec387.png",
+    "static/media/shower_circle.png": "/static/media/shower_circle.0271dd5d799198e159a1.png",
+    "static/media/heating_circle.png": "/static/media/heating_circle.94d2ebf90a9e97f0e1f6.png",
+    "static/media/barrel.jpeg": "/static/media/barrel.76bb4fa7734f22a97d29.jpeg",
+    "static/media/heating2.jpg": "/static/media/heating2.16a87377fe40224a5dd2.jpg",
+    "static/media/Logo w Border Text.png": "/static/media/Logo w Border Text.5e86f77954341de9fb78.png",
+    "static/media/Logo Matthew 3 white.png": "/static/media/Logo Matthew 3 white.2984caa6c604cb3f0b89.png",
+    "static/media/phone.svg": "/static/media/phone.43c1d8060c3106c1bb164046a267277e.svg",
+    "static/media/address.svg": "/static/media/address.a88056c01bec0e2e820ceece89acdcc1.svg",
+    "static/media/at.svg": "/static/media/at.429682827289a70a6b07d9e47151d252.svg",
+    "index.html": "/index.html",
+    "main.3b1acaa8.css.map": "/static/css/main.3b1acaa8.css.map",
+    "main.7d47e498.js.map": "/static/js/main.7d47e498.js.map",
+    "787.9db68e7a.chunk.js.map": "/static/js/787.9db68e7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b1acaa8.css",
+    "static/js/main.7d47e498.js"
+  ]
+}
